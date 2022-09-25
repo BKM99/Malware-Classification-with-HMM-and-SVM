@@ -1,0 +1,12 @@
+push
+push
+push
+push
+pop
+pop
+pop
+pop
+mov
+push
+retn
+retn
